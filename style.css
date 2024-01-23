@@ -1,0 +1,85 @@
+*{
+    font-family: "Comfortaa";
+    
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+
+}
+
+.SfondoTrasp {  
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+    padding: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+
+}
+
+header > h1 {
+    color: lime;
+    font-size: 40px;
+    
+}
+
+#Logo {
+    width: 45%;
+    
+}
+
+header, nav {
+    margin: auto;
+    text-align: center;
+    width: 60%;
+
+}
+
+nav {
+    background-color: lime;
+    width: auto;
+    padding: 15px;
+    
+}
+
+main {
+    color: white;
+}
+
+input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+
+}
+
+.IN-BL {
+    display: inline-block;
+
+}
+
+.ChargeBar {    
+    height: 40px;    
+    border-radius: 10px;
+
+}
+
+.Orange {
+    background-color: rgb(253, 190, 73);
+    width: 40%;
+
+}
+
+.Green {
+    background-color: green;
+    width: 70%;
+
+}
+
+.Red {
+    background-color: rgb(163, 23, 23);
+    width: 20%;
+
+}
